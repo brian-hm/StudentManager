@@ -1,5 +1,5 @@
 <h1 align="center">
-    User Manager
+    Student Manager
 </h1>
 
 
@@ -36,7 +36,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode][vsco
 
 ###  Banco de dados
 #### Diagrama
-<img alt="diagrama" title="#diagrama" src="./assets/DiagramaER.png" width="500px" />
+<img alt="diagrama" title="#diagrama" src="/assets/DiagramaER.png" width="500px" />
 
 O banco de dados utilizado é o PostgresSQL
 Antes de iniciar a aplicação crie o banco de dados: `CREATE DATABASE studentmanager`
