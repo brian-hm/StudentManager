@@ -21,6 +21,8 @@ public class Aluno implements Serializable {
 	@Column(nullable = false)
 	private String nome;
 	
+	private String imagem;
+	
 	@Column(nullable = false)
 	private String endereco;
 
