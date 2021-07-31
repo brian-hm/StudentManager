@@ -22,6 +22,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
   - [SpringBoot][spring]
   - [Postgres][postgres]
 
+### **API**
+Documentação: https://documenter.getpostman.com/view/12653527/TzseK78c
+
 ##  Como executar o projeto
 
 Este projeto está dividido em 2 partes:
